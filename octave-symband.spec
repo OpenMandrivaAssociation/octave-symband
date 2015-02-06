@@ -3,7 +3,7 @@
 Summary:	Octave package for handling symmetric banded matrices
 Name:       octave-%{pkgname}
 Version:	1.0.10
-Release:	5
+Release:	6
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
